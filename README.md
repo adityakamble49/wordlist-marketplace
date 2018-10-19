@@ -11,14 +11,9 @@ Marketplace For Word List App
 | GRE Essential | 500 |
 | GRE Advanced | 500 |
 | GRE High Frequency | 333 |
-| Very Alternatives | 128 |
 | Time Related Words | 19 |
 | Physics Related Words | 268 |
 
-
-### Credits
-
-* [GRE-Words-Shuffled](https://github.com/maykulkarni/Manhattan-GRE-Words-Shuffled) for GRE Essential and Advanced
 
 ### License
 -------
