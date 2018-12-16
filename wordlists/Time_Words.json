@@ -7,13 +7,7 @@
         "name": "yore",
         "etymology": "Middle English, from yore, adverb, long ago, from Old English g\u0113ara, from g\u0113ar year year",
         "pronunciation": "\u02c8y\u022fr",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "of long ago or former times (used in nostalgic or mock-nostalgic recollection).",
-                "example": "a great empire in days of yore"
-            }
-        ]
+        "information": "type: noun \n definition: of long ago or former times (used in nostalgic or mock-nostalgic recollection). \n example: a great empire in days of yore \n "
     },
     {
         "_id": {
@@ -23,13 +17,7 @@
         "name": "fortnight",
         "etymology": "Middle English fourtenight, alteration of fourtene night, from Old English f\u0113owert\u0233ne niht fourteen nights",
         "pronunciation": "\u02c8f\u022frt-\u02ccn\u012bt",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "a period of two weeks.",
-                "example": ""
-            }
-        ]
+        "information": "type: noun \n definition: a period of two weeks. \n example:  \n "
     },
     {
         "_id": {
@@ -39,18 +27,7 @@
         "name": "jubilee",
         "etymology": "Middle English, from Anglo-French & Late Latin; Anglo-French jubil\u00e9, from Late Latin jubilaeus, modification of Late Greek i\u014db\u0113laios, from Hebrew y\u014dbh\u0113l ram's horn, jubilee\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "Judaism",
-                "example": ""
-            },
-            {
-                "type": "noun",
-                "definition": "a special anniversary of an event, especially one celebrating twenty-five or fifty years of a reign or activity.",
-                "example": "to celebrate its jubilee, the club is holding a tournament"
-            }
-        ]
+        "information": "type: noun \n definition: Judaism \n example:  \n "
     },
     {
         "_id": {
@@ -60,18 +37,7 @@
         "mnemonic": "1. advent=ad + went\r\n\"went\" is the past tense of go.\"ad vent\" is opposite of \"go\" which is \"come\".(ie) \"arrival\".\n\n2. advent ~ d(ad) + went : assume that if you call your dad's office to know the arrival of your father the office boy says.....your dad(AD) went(vent) to home...that means he is arriving.\n\n3. \"ad\"+\"vent\" ad went  and cinema or soap \"arrives\"\n\n4. Advent = Ad(add) + vent ( air/empty)= Fill up the empty Seats in fuction means Arrive\n\n5. advent -> added event -> awaiting event...\n\n6. ad(toward)+vent(vent)=arrival\n\n7. when u go for ADVENTure there will be no arrival  2 home\n\n8. Starting four weeks before Christmas the arrival of Jesus is celebrated each weekend as 1st, 2nd, 3rd, and 4th Advent.\n\n9. It's an event but it's added so awaited event\n\n10. Advent= ADD + INvent\n\n11. ADVENT<===> \u00e0\u00a4\u2022\u00e0\u00a5\u008d\u00e0\u00a4\u00b0\u00e0\u00a4\u00bf\u00e0\u00a4\u00b8\u00e0\u00a4\u00ae\u00e0\u00a4\u00b8 \u00e0\u00a4\u2022\u00e0\u00a5\u2021 \u00e0\u00a4\u00aa\u00e0\u00a4\u00b9\u00e0\u00a4\u00b2\u00e0\u00a5\u2021 \u00e0\u00a4\u2022\u00e0\u00a5\u2021 \u00e0\u00a4\u00a6\u00e0\u00a4\u00bf\u00e0\u00a4\u00a8{\u00e0\u00a4\u0161\u00e0\u00a4\u00be\u00e0\u00a4\u00b0 \u00e0\u00a4\u2021\u00e0\u00a4\u00a4\u00e0\u00a4\u00b5\u00e0\u00a4\u00be\u00e0\u00a4\u00b0 \u00e0\u00a4\u00b8\u00e0\u00a4\u00b9\u00e0\u00a4\u00bf\u00e0\u00a4\u00a4} (pr. \\\\krisamas ke pahale ke din{char itavar sahit} \\\\ )[Noun]\r\n\r\nExample:We are anxiously waiting for advent hymns.\r\n\r\nADVENT<===> \u00e0\u00a4\u2020\u00e0\u00a4\u2014\u00e0",
         "etymology": "Middle English, from Medieval Latin adventus, from Latin, arrival, from advenire\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "the first season of the Church year, leading up to Christmas and including the four preceding Sundays.",
-                "example": ""
-            },
-            {
-                "type": "noun",
-                "definition": "the arrival of a notable person or thing.",
-                "example": "the advent of television"
-            }
-        ]
+        "information": "type: noun \n definition: the first season of the Church year, leading up to Christmas and including the four preceding Sundays. \n example:  \n "
     },
     {
         "_id": {
@@ -81,13 +47,7 @@
         "name": "epoch",
         "etymology": "Medieval Latin epocha, from Greek epoch\u0113 cessation, fixed point, from epechein to pause, hold back, from epi- + echein to hold scheme",
         "pronunciation": "\u02c8e-p\u0259k, \u02c8e-\u02ccp\u00e4k, US also & British usually \u02c8\u0113-\u02ccp\u00e4k",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "a particular period of time in history or a person's life.",
-                "example": "the Victorian epoch"
-            }
-        ]
+        "information": "type: noun \n definition: a particular period of time in history or a person's life. \n example: the Victorian epoch \n "
     },
     {
         "_id": {
@@ -97,13 +57,7 @@
         "name": "biannual",
         "etymology": "",
         "pronunciation": "(\u02cc)b\u012b-\u02c8an-y\u0259(-w\u0259)l",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "occurring twice a year.",
-                "example": "the biannual meeting of the planning committee"
-            }
-        ]
+        "information": "type: adjective \n definition: occurring twice a year. \n example: the biannual meeting of the planning committee \n "
     },
     {
         "_id": {
@@ -113,13 +67,7 @@
         "name": "era",
         "etymology": "Late Latin aera, from Latin, counters, plural of aer-, aes copper, money ore\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "a long and distinct period of history.",
-                "example": "his death marked the end of an era"
-            }
-        ]
+        "information": "type: noun \n definition: a long and distinct period of history. \n example: his death marked the end of an era \n "
     },
     {
         "_id": {
@@ -129,23 +77,7 @@
         "name": "phase",
         "etymology": "growth\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter.",
-                "example": "the phases of the moon"
-            },
-            {
-                "type": "verb",
-                "definition": "carry out (something) in gradual stages.",
-                "example": "the work is being phased over a number of years"
-            },
-            {
-                "type": "noun",
-                "definition": "a distinct period or stage in a process of change or forming part of something's development.",
-                "example": "the final phases of the war"
-            }
-        ]
+        "information": "type: noun \n definition: each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter. \n example: the phases of the moon \n "
     },
     {
         "_id": {
@@ -155,18 +87,7 @@
         "name": "perennial",
         "etymology": "Latin perennis, from per- throughout + annus year per-, annual",
         "pronunciation": "p\u0259-\u02c8re-n\u0113-\u0259l",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "lasting or existing for a long or apparently infinite time; enduring or continually recurring.",
-                "example": "his perennial distrust of the media"
-            },
-            {
-                "type": "adjective",
-                "definition": "(of a plant) living for several years.",
-                "example": "cow parsley is perennial"
-            }
-        ]
+        "information": "type: adjective \n definition: lasting or existing for a long or apparently infinite time; enduring or continually recurring. \n example: his perennial distrust of the media \n "
     },
     {
         "_id": {
@@ -176,13 +97,7 @@
         "name": "contemporaneous",
         "etymology": "Latin contemporaneus, from com- + tempor-, tempus time",
         "pronunciation": "k\u0259n-\u02cctem-p\u0259-\u02c8r\u0101-n\u0113-\u0259s",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "existing at or occurring in the same period of time.",
-                "example": "Pythagoras was contemporaneous with Buddha"
-            }
-        ]
+        "information": "type: adjective \n definition: existing at or occurring in the same period of time. \n example: Pythagoras was contemporaneous with Buddha \n "
     },
     {
         "_id": {
@@ -192,13 +107,7 @@
         "name": "coeval",
         "etymology": "Latin coaevus, from co- + aevum age, lifetime aye",
         "pronunciation": "k\u014d-\u02c8\u0113-v\u0259l",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "having the same age or date of origin; contemporary.",
-                "example": "these lavas were coeval with the volcanic activity"
-            }
-        ]
+        "information": "type: adjective \n definition: having the same age or date of origin; contemporary. \n example: these lavas were coeval with the volcanic activity \n "
     },
     {
         "_id": {
@@ -208,23 +117,7 @@
         "name": "eternal",
         "etymology": "Middle English, from Middle French, from Late Latin aeternalis, from Latin aeternus eternal, from aevum age, eternity aye\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "lasting or existing forever; without end.",
-                "example": "the secret of eternal youth"
-            },
-            {
-                "type": "adjective",
-                "definition": "used to emphasize expressions of admiration, gratitude, etc.",
-                "example": "to his eternal credit, he maintained his dignity throughout"
-            },
-            {
-                "type": "adjective",
-                "definition": "used to refer to an everlasting or universal spirit, as represented by God.",
-                "example": "a man entirely under the sway of the Eternal and not of the material"
-            }
-        ]
+        "information": "type: adjective \n definition: lasting or existing forever; without end. \n example: the secret of eternal youth \n "
     },
     {
         "_id": {
@@ -234,13 +127,7 @@
         "name": "biennial",
         "etymology": "",
         "pronunciation": "(\u02cc)b\u012b-\u02c8e-n\u0113-\u0259l",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "taking place every other year.",
-                "example": "the first of a series of biennial exhibitions"
-            }
-        ]
+        "information": "type: adjective \n definition: taking place every other year. \n example: the first of a series of biennial exhibitions \n "
     },
     {
         "_id": {
@@ -250,23 +137,7 @@
         "name": "perpetual",
         "etymology": "Middle English perpetuel, from Anglo-French, from Latin perpetuus uninterrupted, from per- through + petere to go to feather\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "never ending or changing.",
-                "example": "deep caves in perpetual darkness"
-            },
-            {
-                "type": "adjective",
-                "definition": "occurring repeatedly; so frequent as to seem endless and uninterrupted.",
-                "example": "their perpetual money worries"
-            },
-            {
-                "type": "adjective",
-                "definition": "(of a plant) blooming or fruiting several times in one season.",
-                "example": "he grows perpetual flowering carnations"
-            }
-        ]
+        "information": "type: adjective \n definition: never ending or changing. \n example: deep caves in perpetual darkness \n "
     },
     {
         "_id": {
@@ -276,18 +147,7 @@
         "name": "halcyon",
         "etymology": "Middle English alceon, from Latin halcyon, from Greek alky\u014dn, halky\u014dn\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "a mythical bird said by ancient writers to breed in a nest floating at sea at the winter solstice, charming the wind and waves into calm.",
-                "example": ""
-            },
-            {
-                "type": "adjective",
-                "definition": "denoting a period of time in the past that was idyllically happy and peaceful.",
-                "example": "the halcyon days of the mid 1980s, when profits were soaring"
-            }
-        ]
+        "information": "type: noun \n definition: a mythical bird said by ancient writers to breed in a nest floating at sea at the winter solstice, charming the wind and waves into calm. \n example:  \n "
     },
     {
         "_id": {
@@ -297,13 +157,7 @@
         "name": "millennium",
         "etymology": "New Latin, from Latin mille thousand + New Latin -ennium (as in biennium)",
         "pronunciation": "m\u0259-\u02c8le-n\u0113-\u0259m",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "a period of a thousand years, especially when calculated from the traditional date of the birth of Christ.",
-                "example": "silver first came into use on a substantial scale during the 3rd millennium BC"
-            }
-        ]
+        "information": "type: noun \n definition: a period of a thousand years, especially when calculated from the traditional date of the birth of Christ. \n example: silver first came into use on a substantial scale during the 3rd millennium BC \n "
     },
     {
         "_id": {
@@ -313,13 +167,7 @@
         "name": "chronological",
         "etymology": "",
         "pronunciation": "\u02cckr\u00e4-n\u0259-\u02c8l\u00e4-ji-k\u0259l, \u02cckr\u014d-",
-        "information": [
-            {
-                "type": "adjective",
-                "definition": "(of a record of events) following the order in which they occurred.",
-                "example": "the entries are in chronological order"
-            }
-        ]
+        "information": "type: adjective \n definition: (of a record of events) following the order in which they occurred. \n example: the entries are in chronological order \n "
     },
     {
         "_id": {
@@ -329,13 +177,7 @@
         "name": "eon",
         "etymology": "Latin, from Greek ai\u014dn aye\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "an indefinite and very long period of time.",
-                "example": "he reached the crag aeons before I arrived"
-            }
-        ]
+        "information": "type: noun \n definition: an indefinite and very long period of time. \n example: he reached the crag aeons before I arrived \n "
     },
     {
         "_id": {
@@ -345,27 +187,6 @@
         "name": "interval",
         "etymology": "Middle English intervalle, from Anglo-French & Latin; Anglo-French entreval, from Latin intervallum space between ramparts, interval, from inter- + vallum rampart wall\n",
         "pronunciation": "",
-        "information": [
-            {
-                "type": "noun",
-                "definition": "the difference in pitch between two sounds.",
-                "example": ""
-            },
-            {
-                "type": "noun",
-                "definition": "an intervening time.",
-                "example": "after his departure, there was an interval of many years without any meetings"
-            },
-            {
-                "type": "noun",
-                "definition": "a pause or break in activity.",
-                "example": "an interval of mourning"
-            },
-            {
-                "type": "noun",
-                "definition": "a space between two things; a gap.",
-                "example": "the rapids have some short intervals of still water"
-            }
-        ]
+        "information": "type: noun \n definition: the difference in pitch between two sounds. \n example:  \n "
     }
 ]
